@@ -1,4 +1,4 @@
-package Corejava_neha;
+package Corejava_disha;
 
 import java.util.Stack;
 public class StackDemo1 {

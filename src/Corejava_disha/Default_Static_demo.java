@@ -1,4 +1,4 @@
-package Corejava_neha;
+package Corejava_disha;
 
 class Car6 implements Vehicle6{
 
