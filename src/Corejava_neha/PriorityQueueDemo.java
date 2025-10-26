@@ -1,4 +1,4 @@
-package Corejava_disha;
+package Corejava_neha;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

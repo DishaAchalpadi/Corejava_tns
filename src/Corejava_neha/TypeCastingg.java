@@ -1,4 +1,4 @@
-package Corejava_disha;
+package Corejava_neha;
 
 public class TypeCastingg {
 	

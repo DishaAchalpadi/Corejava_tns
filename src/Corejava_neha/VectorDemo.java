@@ -1,8 +1,6 @@
-package Corejava_disha;
+package Corejava_neha;
 
 
-	import java.util.ArrayList;
-	import java.util.LinkedList;
 	import java.util.List;
 	import java.util.Vector;
 
